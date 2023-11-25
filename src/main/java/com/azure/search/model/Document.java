@@ -17,6 +17,7 @@ public class Document {
 	private String history = "";
 	private String dateCreated = "";
 	private String dateEdited = "";
+	String matchTip = "";
 
 	
 }
